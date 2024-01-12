@@ -1,0 +1,8 @@
+ 
+Ứng dụng 1 áp dụng biểu diễn tri thức đó là nhận biết bệnh nhân có mắc bệnh phổi do hậu covid hay không
+Hướng phát triển : Sử dụng biểu diễn tri thức để tổng hợp thông tin đối chiếu ảnh chụp phổi của bệnh nhân đối với các bệnh nhân bị phổi do hậu covid . Từ đó có thể xem xét được là bệnh nhân này có bị hay không 
+Nếu có thì cũng nhờ biểu diễn tri thức từ vc sử dụng các bệnh nhân bị phổi từ hậu covid (trước) thì ta có thể tìm ra 1 phương án chữa bệnh phù hợp , từ đó tiết kiệm thời gian và tiền bạc cho bệnh nhân cùng với công sức của bác sĩ 
+
+Ứng dụng 2: hệ thống hỏi đáp để hỗ trợ trả lời các câu hỏi, đưa ra các thông tin có liên quan
+Hướng mở rộng: phát triển máy tính có thể thực sự hiểu được các câu hỏi như con người, thậm chí là các câu hỏi ẩn dụ, hỏi gián tiếp. Có khả năng tư duy logic và lựa chọn câu trả lời phù hợp với người đặt câu hỏi. Ví dụ: “Trọng số là gì ?” (một câu hỏi chung chung không nói cụ thể thuộc lĩnh vực nào)
+Tùy thuộc vào ngành nghề, lĩnh vực chuyên môn của người hỏi, máy tính có thể đưa ra các câu trả lời khác nhau sao cho phù hợp với cách hiểu của người hỏi.
