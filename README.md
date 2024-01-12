@@ -13,7 +13,7 @@
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 20520465      | Nguyễn Vũ Dương        |Nhóm trưởng|[duongve13112002](https://github.com/duongve13112002)    |20520465@gm.uit.edu.vn   |
-| 2      | 20520375      | Phạm Phước An     |Thành viên |    |20520375@gm.uit.edu.vn   |
+| 2      | 20520375      | Phạm Phước An     |Thành viên |[RiderKick2204](https://github.com/RiderKick2204)    |20520375@gm.uit.edu.vn   |
 | 3      | 20520793      | Cao Thế Thuận     |Thành viên |    |20520793@gm.uit.edu.vn   |
 | 4      | 20520732      | Đoàn Ngọc Như Quỳnh     |Thành viên |    |20520732@gm.uit.edu.vn   |
 | 5      | 20520775      | Nguyễn Phan Quốc Thiện     |Thành viên |    |20520775@gm.uit.edu.vn   |
